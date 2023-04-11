@@ -4,6 +4,8 @@
 
 Designed a web app for mobile only to get suggestions for your cooking daily.
 
+## Images
+
 ## View Demo
 
 WIP - work in progress
@@ -11,3 +13,13 @@ WIP - work in progress
 ## Authors
 
 Sehajpreet Singh (sehajmagan@gmail.com)
+
+## Images of App
+
+### Welcome Page
+
+![Welcome Page](https://github.com/sehaj97/hook-to-cook/blob/main/welcome.png)
+
+### Recommendations Page
+
+![Recommendations Page](https://github.com/sehaj97/hook-to-cook/blob/main/reco.png)
