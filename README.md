@@ -2,7 +2,7 @@
 
 ## Description
 
-Designed a web app for mobile only to get suggestions for your cooking daily.
+Designed a react app for mobile only to get suggestions for your cooking daily.
 
 ## Images
 
